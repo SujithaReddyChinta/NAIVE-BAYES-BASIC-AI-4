@@ -1,1 +1,2 @@
-# NAIVE-BAYES-BASIC-AI-4
+
+Naive Bayes is a probabilistic classification algorithm based on Bayes' theorem, assuming independence between features. It calculates the probability of a class given a set of features by multiplying the conditional probabilities of each feature given the class. Despite its simplicity, Naive Bayes is effective in text classification, spam filtering, and recommendation systems. It requires a small amount of training data, handles large feature spaces efficiently, and is robust to irrelevant features. 
